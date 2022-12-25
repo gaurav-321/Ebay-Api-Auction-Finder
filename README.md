@@ -1,4 +1,4 @@
-# Ebay Bot
+# Ebay Api Auction Finder
 A python script that uses the eBay API to search for auctions with specific keywords and find the best deal.
 
 ## Dependencies
